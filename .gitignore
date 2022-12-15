@@ -5,3 +5,7 @@ data2/!data01.csv
 config/
 *.dat
 !/*.dat
+*.class
+Main.class
+User.class
+passwords.dat
